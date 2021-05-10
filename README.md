@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Sri Madhan S P :v:
+I'm always trying to grow and learn something new. 
+I lose track of time when I'm watch series and movies
 
-<!--
-**Sri-Madhan/Sri-Madhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: FLUTTER / Django / Angular JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning PWA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sri-Madhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/madhu_.02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://madhu-website.herokuapp.com/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Madhan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-Madhan&show_icons=true)  
+
+
