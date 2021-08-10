@@ -1,11 +1,4 @@
 ### Hey, I'm Sri Madhan S P :v:
-I'm always trying to grow and learn something new. 
-I lose track of time when I'm watch series and movies
-
-Skills: FLUTTER / Django / Angular JS / HTML / CSS
-
-- 🌱 I’m currently learning PWA 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sri-Madhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/madhu_.02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://madhu-website.herokuapp.com/)  
 
